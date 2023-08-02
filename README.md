@@ -1,7 +1,3 @@
 # HTML email signatures eyecre.at
 
-[screenshot](https://lupre.at/eyecre/emailsignaturDavi….png)https://lupre.at/eyecre/emailsignaturDavi….png)
-
-
-
-
+[![Screenshot einer der Signaturen](https://lupre.at/eyecre/emailsignaturDavid.png)](https://lupre.at/eyecre/emailsignaturDavid.png)
